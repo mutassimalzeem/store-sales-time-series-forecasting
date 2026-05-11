@@ -2,6 +2,7 @@
 data/raw/*
 data/processed/*
 data/external/*
+data/store-sales-time-series-forecasting/
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/external/.gitkeep
@@ -27,4 +28,3 @@ kaggle.json
 # System files
 .DS_Store
 Thumbs.db
-
