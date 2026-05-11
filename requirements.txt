@@ -1,0 +1,15 @@
+# Planning-only placeholder.
+# Add runtime dependencies here when implementation starts.
+#
+# Likely future packages:
+# pandas
+# numpy
+# scikit-learn
+# matplotlib
+# seaborn
+# lightgbm
+# xgboost
+# catboost
+# optuna
+# jupyter
+

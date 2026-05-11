@@ -1,0 +1,6 @@
+Run,Date,Model,Feature set,Validation split,RMSLE,Notes
+001,TBD,Naive baseline,Previous week / average,TBD,TBD,First score to beat
+002,TBD,Linear / Ridge baseline,Date + store + family,TBD,TBD,Deterministic baseline
+003,TBD,LightGBM,Date + store + family + holidays,TBD,TBD,First boosting model
+004,TBD,LightGBM / XGBoost / CatBoost,Full lag + rolling feature set,TBD,TBD,Main candidate model
+
